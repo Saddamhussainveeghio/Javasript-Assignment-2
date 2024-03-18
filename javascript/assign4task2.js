@@ -6,8 +6,8 @@
   let camelCaseVariable;
 
   // Illegal variable names
-   let 123variable; 
-   let my-variable; 
-   let $money; 
-   let my variable; 
-   let let; 
+   // let 123variable; 
+   //let my-variable; 
+   //let $money; 
+   //let my variable; 
+   //let let; 
